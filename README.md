@@ -149,8 +149,8 @@ The final part refers to the component or material after undergoing heat treatme
 
 ## Output:
 
-### Name: P.Pradeep Raj
-### Register Number: 212222240073
+### Name: yogesh rao S D
+### Register Number: 212222110055
 
 ## Result: 
   Thus the simulation on the Postprocessing in additive manufacturing is completed.
